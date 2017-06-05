@@ -1,5 +1,5 @@
 {
-  "name": "@mnt-tech/egg-sequelize",
+  "name": "@mn-tech/egg-sequelize",
   "version": "2.2.1",
   "description": "egg Sequelize plugin",
   "eggPlugin": {
